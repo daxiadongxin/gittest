@@ -11,6 +11,7 @@ namespace gittest
 {
     public partial class Form1 : Form
     {
+        //增加一条注释，并提交测试
         public Form1()
         {
             InitializeComponent();
