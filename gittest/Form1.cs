@@ -17,6 +17,8 @@ namespace gittest
 
         //test
 
+        //test bjb
+
         //mypc的更改，与bjb同时修改
         public Form1()
         {
