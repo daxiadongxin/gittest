@@ -16,6 +16,8 @@ namespace gittest
         //增加第二次注释
 
         //test
+
+        //mypc的更改，与bjb同时修改
         public Form1()
         {
             InitializeComponent();
