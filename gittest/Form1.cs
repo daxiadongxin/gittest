@@ -14,6 +14,8 @@ namespace gittest
         //增加一条注释，并提交测试
 
         //增加第二次注释
+
+        //test
         public Form1()
         {
             InitializeComponent();
