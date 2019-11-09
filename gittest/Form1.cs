@@ -16,6 +16,8 @@ namespace gittest
         //增加第二次注释
 
         //test
+
+        //test bjb
         public Form1()
         {
             InitializeComponent();
